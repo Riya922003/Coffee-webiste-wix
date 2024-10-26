@@ -8,4 +8,8 @@ To set up your local environment and start coding locally, do the following:
 5.  Install the repo's dependencies by running `npm install` or `yarn install`.
 6.  open local editor to test code `wix dev`
 
+To open the website directly 
+<a href="https://riya98012.wixstudio.io/coffee">Click here</a>
+
+Preview Video
 
